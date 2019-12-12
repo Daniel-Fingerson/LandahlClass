@@ -1,0 +1,2 @@
+Page 19 of the datasheet gives us the configure bits for the MCP3008
+These are sequence of bits that give us back our desired reading
